@@ -1,5 +1,5 @@
 # neohud
-Flat TF2 HUD with inspired from many other HUDs
+Flat TF2 HUD inspired from many other HUDs
 
 !! Do note this HUD isn't finished yet and might need more testing/edits !!
 
